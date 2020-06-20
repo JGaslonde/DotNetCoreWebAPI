@@ -1,5 +1,3 @@
-using Contracts;
-using Microsoft.AspNetCore.Mvc;
 using System;
 
 namespace CompanyEmployees
